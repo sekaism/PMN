@@ -1,0 +1,7 @@
+Set,Layer/source,Seed count,Expanded/in-module count,Representative genes,Interpretation
+PMN DEGs,Transcriptomic disease seeds,3063,3063,"TP53, KEAP1, MYDGF, SRSF5",Active glomerular disease-state signature
+PMN GWAS genes,Genetic disease seeds,5,5,"PLA2R1, NFKB1, IRF4, HLA-DQA1, HLA-DRB1",Disease susceptibility core
+PMN LCC module,STRING-expanded disease module,3068,2176,"NFKB1, TP53, AKT1, RELA, PLA2R1",Interactome neighborhood used for proximity analysis
+RTX targets,"Direct, Fc receptor, complement, BCR signaling and Treg layers",50,73,"MS4A1, FCGR3A, C1QA, SYK, BTK, FOXP3, TGFB1",Multi-layer biologic perturbation model
+TAC targets,FKBP/calcineurin/NFAT/T-cell signaling,22,28,"FKBP1A, PPP3CA, NFATC1, IL2, JAK1",T-cell activation neighborhood
+CTX targets,"Metabolism, DNA damage response and apoptosis",20,33,"CYP2B6, CYP3A4, TP53, ATM, CASP3, BAX",Broad cytotoxic/apoptotic neighborhood

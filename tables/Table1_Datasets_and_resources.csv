@@ -1,0 +1,7 @@
+Resource,Data type,Samples used,Platform/source,Role in analysis
+GSE108113,Bulk glomerular transcriptomics,87 PMN; 11 living donor controls,Affymetrix Human Gene 2.1 ST Array; NEPTUNE,Differential expression and transcriptomic disease module seed genes
+GSE99340-GPL19184,External bulk glomerular transcriptomics,21 MGN; 8 control glomerular samples,GEO SuperSeries microarray platform GPL19184,External transcriptomic concordance and external-module proximity validation
+STRING v11.5,Protein-protein interaction network,Human proteins; combined score >= 0.4,STRING physical interaction network,Disease module construction and network distance calculations
+DrugBank/STITCH/Harmonizome/literature,Drug-target annotations,"RTX, TAC and CTX target sets",Curated pharmacology databases and targeted literature review,Drug target set definition and expansion
+GSE171458,Single-cell RNA-seq,PMN and normal kidney samples from source dataset,10x Genomics scRNA-seq,Cell-type mapping of drug target sets
+RCSB PDB/PubChem,Protein structures and small-molecule structures,Six hub proteins; TAC and CTX ligands,RCSB Protein Data Bank and PubChem,Orthogonal structural plausibility screening by docking

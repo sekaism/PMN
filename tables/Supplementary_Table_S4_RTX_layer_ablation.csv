@@ -1,0 +1,19 @@
+RTX representation,Disease set,Seed targets,Targets in network,Disease proteins in network,Observed distance,Permutation mean distance,Proximity z-score,Interpretation
+CD20 only,DEGs,1,0,465,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+CD20 only,GWAS,1,0,4,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+CD20 only,Integrated,1,0,469,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+CD20 + Fc/complement,DEGs,12,0,465,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+CD20 + Fc/complement,GWAS,12,0,4,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+CD20 + Fc/complement,Integrated,12,0,469,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+BCR/signaling layer only,DEGs,18,15,465,0.7333,0.832,-0.8466,Not proximal by z < -1.5
+BCR/signaling layer only,GWAS,18,15,4,2.2667,3.4731,-4.1235,Proximal
+BCR/signaling layer only,Integrated,18,15,469,0.6667,0.7947,-1.1487,Not proximal by z < -1.5
+Immune regulation layer only,DEGs,20,4,465,1.75,0.8058,3.9515,Not proximal by z < -1.5
+Immune regulation layer only,GWAS,20,4,4,1.5,3.4842,-3.4135,Proximal
+Immune regulation layer only,Integrated,20,4,469,1.0,0.8075,1.0136,Not proximal by z < -1.5
+Full seed set,DEGs,50,19,465,0.9474,0.816,1.2365,Not proximal by z < -1.5
+Full seed set,GWAS,50,19,4,2.1053,3.4682,-5.3241,Proximal
+Full seed set,Integrated,50,19,469,0.7368,0.7847,-0.4804,Not proximal by z < -1.5
+Full expanded set,DEGs,73,42,465,0.6429,0.8237,-2.4509,Proximal
+Full expanded set,GWAS,73,42,4,1.7619,3.4849,-9.7163,Proximal
+Full expanded set,Integrated,73,42,469,0.4286,0.7846,-5.4978,Proximal

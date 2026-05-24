@@ -1,0 +1,93 @@
+Drug,Target,Layer,Evidence source category,In final PPI LCC,In expanded analysis set,Comment
+RTX,AKT1,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,AKT2,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,BANK1,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,BLK,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,BTK,BCR/signaling layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,C1QA,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,C1QB,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,C1QC,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,C1R,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,C1S,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CD19,Immune regulation layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CD22,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CD4,Immune regulation layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CD79A,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CD79B,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,CHUK,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR1A,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR2A,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR2B,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR2C,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR3A,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FCGR3B,CD20 + Fc/complement,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,FOXP3,Immune regulation layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,GZMB,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IFNG,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IKBKB,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IKBKG,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IL10,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IL2,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IL2RA,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,IL6,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,LYN,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,MAPK1,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,MAPK3,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,MAPK8,BCR/signaling layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,MS4A1,CD20 only,DrugBank/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,MTOR,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,NFKB1,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,PIK3CA,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,PIK3CB,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,PIK3CD,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,PLCG2,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,PRF1,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,RELA,BCR/signaling layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,SYK,BCR/signaling layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,TGFB1,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,TGFBR1,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,TGFBR2,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,TNF,Immune regulation layer only,Literature/Harmonizome,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+RTX,TNFSF10,Immune regulation layer only,Literature/Harmonizome,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,CCND1,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,CDK4,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,FKBP1A,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,FKBP1B,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,IL2,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,IL2RA,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,IL2RB,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,IL2RG,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,JAK1,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,JAK3,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,MYC,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,NFATC1,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,NFATC2,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,NFATC3,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,NFATC4,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,PPP3CA,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,PPP3CB,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,PPP3CC,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,PPP3R1,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,PPP3R2,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,STAT5A,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+TAC,STAT5B,FKBP/calcineurin/NFAT or T-cell signaling,DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,ALDH1A1,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,ATM,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,ATR,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,BAX,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,BCL2,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CASP3,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CASP8,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CASP9,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CDKN1A,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CHEK1,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CHEK2,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CYP2B6,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CYP2C9,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,CYP3A4,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,FAS,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,FASLG,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,GSTA1,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,GSTP1,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,MGMT,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,False,True,Curated target/pathway component; not all targets are present in the STRING LCC
+CTX,TP53,"Metabolism, DNA damage or apoptosis",DrugBank/STITCH/literature,True,True,Curated target/pathway component; not all targets are present in the STRING LCC

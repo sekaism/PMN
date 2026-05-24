@@ -1,0 +1,25 @@
+Drug,Disease set,Analysis set,Targets in network,Disease proteins in network,Observed distance,Degree-matched permutation mean,Degree-matched z-score,Interpretation
+RTX,DEGs,Expanded targets,42,465,0.6429,0.5717,1.1282,Not proximal by z < -1.5
+RTX,DEGs,Seed targets only,19,465,0.9474,0.7926,1.5875,Not proximal by z < -1.5
+RTX,DEGs,CD20 only,0,465,NA,NA,NA,Not computed: fewer than two targets in network
+RTX,DEGs,CD20+Fc/complement,0,465,NA,NA,NA,Not computed: fewer than two targets in network
+RTX,GWAS,Expanded targets,42,4,1.7619,3.0998,-7.4511,Proximal
+RTX,GWAS,Seed targets only,19,4,2.1053,3.406,-5.0469,Proximal
+RTX,GWAS,CD20 only,0,4,NA,NA,NA,Not computed: fewer than two targets in network
+RTX,GWAS,CD20+Fc/complement,0,4,NA,NA,NA,Not computed: fewer than two targets in network
+RTX,Integrated,Expanded targets,42,469,0.4286,0.5274,-2.0628,Proximal
+RTX,Integrated,Seed targets only,19,469,0.7368,0.7695,-0.3919,Not proximal by z < -1.5
+RTX,Integrated,CD20 only,0,469,NA,NA,NA,Not computed: fewer than two targets in network
+RTX,Integrated,CD20+Fc/complement,0,469,NA,NA,NA,Not computed: fewer than two targets in network
+TAC,DEGs,Expanded targets,14,465,0.7143,0.5998,1.0424,Not proximal by z < -1.5
+TAC,DEGs,Seed targets only,8,465,1.125,0.8583,1.6514,Not proximal by z < -1.5
+TAC,GWAS,Expanded targets,14,4,2.9286,3.1302,-0.6426,Not proximal by z < -1.5
+TAC,GWAS,Seed targets only,8,4,3.5,3.4979,0.0049,Not proximal by z < -1.5
+TAC,Integrated,Expanded targets,14,469,0.5714,0.531,0.4681,Not proximal by z < -1.5
+TAC,Integrated,Seed targets only,8,469,1.0,0.8275,1.2381,Not proximal by z < -1.5
+CTX,DEGs,Expanded targets,17,465,0.5294,0.6182,-0.8628,Not proximal by z < -1.5
+CTX,DEGs,Seed targets only,4,465,0.5,0.6867,-0.8951,Not proximal by z < -1.5
+CTX,GWAS,Expanded targets,17,4,2.0,3.141,-4.3911,Proximal
+CTX,GWAS,Seed targets only,4,4,2.25,3.1283,-1.4551,Not proximal by z < -1.5
+CTX,Integrated,Expanded targets,17,469,0.5294,0.5755,-0.576,Not proximal by z < -1.5
+CTX,Integrated,Seed targets only,4,469,0.5,0.6433,-0.8868,Not proximal by z < -1.5

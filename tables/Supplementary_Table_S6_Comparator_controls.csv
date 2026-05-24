@@ -1,0 +1,6 @@
+Comparator set,Control type,Disease set,Seed targets,Targets in network,Disease proteins in network,Observed distance,Permutation mean distance,Proximity z-score,Interpretation
+Cyclosporine calcineurin control,mechanistic comparator,Integrated,13,6,469,0.8333,0.7928,0.2437,Not proximal by z < -1.5
+EGFR/ERBB oncology control,mechanistic comparator,Integrated,17,16,469,0.75,0.7823,-0.3089,Not proximal by z < -1.5
+BCR-ABL oncology control,mechanistic comparator,Integrated,10,9,469,0.6667,0.778,-0.8017,Not proximal by z < -1.5
+Metabolic/lipid negative control,negative control,Integrated,10,3,469,1.0,0.7963,0.8878,Not proximal by z < -1.5
+Ion-channel negative control,negative control,Integrated,10,3,469,0.6667,0.777,-0.4647,Not proximal by z < -1.5

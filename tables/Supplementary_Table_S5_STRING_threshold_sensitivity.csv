@@ -1,0 +1,28 @@
+STRING edge threshold,Drug,Disease set,Network nodes,Network edges,Seed targets,Targets in network,Disease proteins in network,Observed distance,Permutation mean distance,Proximity z-score,Interpretation
+0.4,RTX,DEGs,2176,3098,50,42,465,0.6429,0.8158,-2.4042,Proximal
+0.4,RTX,GWAS,2176,3098,50,42,4,1.7619,3.4724,-9.4504,Proximal
+0.4,RTX,Integrated,2176,3098,50,42,469,0.4286,0.7894,-5.9575,Proximal
+0.4,TAC,DEGs,2176,3098,22,14,465,0.7143,0.8169,-0.8205,Not proximal by z < -1.5
+0.4,TAC,GWAS,2176,3098,22,14,4,2.9286,3.5343,-2.0461,Proximal
+0.4,TAC,Integrated,2176,3098,22,14,469,0.5714,0.7874,-1.8504,Proximal
+0.4,CTX,DEGs,2176,3098,20,17,465,0.5294,0.8222,-2.6515,Proximal
+0.4,CTX,GWAS,2176,3098,20,17,4,2.0,3.4692,-5.3409,Proximal
+0.4,CTX,Integrated,2176,3098,20,17,469,0.5294,0.7824,-2.5743,Proximal
+0.7,RTX,DEGs,906,1208,50,27,221,0.6667,0.7756,-1.1619,Not proximal by z < -1.5
+0.7,RTX,GWAS,906,1208,50,27,2,1.6667,4.0667,-8.0782,Proximal
+0.7,RTX,Integrated,906,1208,50,27,223,0.5185,0.7615,-2.8371,Proximal
+0.7,TAC,DEGs,906,1208,22,6,221,0.6667,0.7767,-0.6438,Not proximal by z < -1.5
+0.7,TAC,GWAS,906,1208,22,6,2,4.3333,4.0694,0.4074,Not proximal by z < -1.5
+0.7,TAC,Integrated,906,1208,22,6,223,0.6667,0.7494,-0.4631,Not proximal by z < -1.5
+0.7,CTX,DEGs,906,1208,20,15,221,0.5333,0.776,-2.0818,Proximal
+0.7,CTX,GWAS,906,1208,20,15,2,1.9333,4.0496,-5.3299,Proximal
+0.7,CTX,Integrated,906,1208,20,15,223,0.5333,0.7542,-1.9428,Proximal
+0.9,RTX,DEGs,383,431,50,22,95,0.6364,0.7736,-1.4784,Not proximal by z < -1.5
+0.9,RTX,GWAS,383,431,50,0,1,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+0.9,RTX,Integrated,383,431,50,22,96,0.5,0.7523,-2.9776,Proximal
+0.9,TAC,DEGs,383,431,22,2,95,0.5,0.7767,-0.897,Not proximal by z < -1.5
+0.9,TAC,GWAS,383,431,22,0,1,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+0.9,TAC,Integrated,383,431,22,2,96,0.5,0.7467,-0.8111,Not proximal by z < -1.5
+0.9,CTX,DEGs,383,431,20,11,95,0.7273,0.7691,-0.3068,Not proximal by z < -1.5
+0.9,CTX,GWAS,383,431,20,0,1,NA,NA,NA,Not computed: fewer than two targets or disease proteins in network
+0.9,CTX,Integrated,383,431,20,11,96,0.7273,0.7509,-0.19,Not proximal by z < -1.5
